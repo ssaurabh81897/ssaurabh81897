@@ -26,7 +26,7 @@ const ssaurabh81897 = {
   title: "CS Student",
   stack: {
     languages: ["Python", "Java"],
-    frontend: ["HTML", "CSS", "JavaScript"],
+    frontend: ["HTML", "CSS"],
     backend: ["Django", "Flask"],
   },
   launchedProjects: ["Road-Feedback"],
