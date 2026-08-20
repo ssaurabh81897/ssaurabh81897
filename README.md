@@ -23,7 +23,8 @@
 
 ```typescript
 const ssaurabh81897 = {
-  title: "CS Student",
+  title: 
+"CS Student",
   stack: {
     languages: ["Python", "Java"],
     frontend: ["HTML", "CSS"],
