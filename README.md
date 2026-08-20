@@ -67,7 +67,7 @@ A web-based road feedback system built with Python and Django that allows users 
 
 **Frontend**
 
-![Skills](https://skillicons.dev/icons?i=html,css,js)
+![Skills](https://skillicons.dev/icons?i=html,css)
 
 **Backend / Infra**
 
